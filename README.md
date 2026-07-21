@@ -232,3 +232,6 @@ To avoid ongoing charges, delete resources in this order:
 6. **CloudWatch → Alarms** → delete `asg-cpu-high` and `asg-cpu-low`
 7. **SNS → Topics** → delete `asg-notifications`
 8. **EC2 → Security Groups** → delete `asg-lab-sg` and `alb-sg` (if created)
+
+## Author
+**Farooq Shabbir**
